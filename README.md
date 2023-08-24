@@ -1,7 +1,7 @@
 # Sprint_1_Project
 TripleTen Sprint 1 Final Project
 
-My first Sprint Project - Sprint Length was 3 weeks (1 week longer than normal for this sprint due to Christmas/Holiday season).
+My Sprint 1, Basic Python, project. Sprint length was 3 weeks (1 week longer than normal for this sprint due to Christmas/Holiday season).
 
 Instructions provided by TripleTen Program:
 
